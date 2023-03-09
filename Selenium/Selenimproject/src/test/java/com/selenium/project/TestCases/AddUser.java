@@ -3,18 +3,16 @@ package com.selenium.project.TestCases;
 import com.selenium.project.PageObject.AddUserPage;
 import com.selenium.project.PageObject.AdminPage;
 import com.selenium.project.PageObject.HrmsLoginPage;
-import com.selenium.project.modules.Generic;
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebElement;
+import com.selenium.project.Generic.Generic;
+import org.openqa.selenium.WebDriver;
 import org.testng.annotations.Test;
 
-import java.util.List;
-
-public class AddUser extends Setup{
+public class AddUser {
     Generic generic;
     HrmsLoginPage login;
     AdminPage admin;
     AddUserPage addUserPage;
+    WebDriver driver;
 
     @Test
     public void addUser() throws InterruptedException {

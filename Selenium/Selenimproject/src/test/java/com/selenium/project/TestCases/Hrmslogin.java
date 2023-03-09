@@ -2,8 +2,9 @@ package com.selenium.project.TestCases;
 
 import com.selenium.project.PageObject.AdminPage;
 import com.selenium.project.PageObject.HrmsLoginPage;
-import com.selenium.project.modules.Generic;
+import com.selenium.project.Generic.Generic;
 import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.Select;
 import org.testng.annotations.DataProvider;
@@ -12,11 +13,11 @@ import org.testng.annotations.Test;
 import java.io.IOException;
 import java.util.List;
 
-public class Hrmslogin extends Setup{
+public class Hrmslogin {
 public Generic generics;
 public HrmsLoginPage hlogin;
 public  AdminPage drop;
-
+ static    WebDriver driver;
 
     // String url = "https://opensource-demo.orangehrmlive.com/";
     @Test(dataProvider = "Logindata")

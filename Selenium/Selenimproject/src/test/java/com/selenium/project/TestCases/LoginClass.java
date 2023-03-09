@@ -4,29 +4,29 @@ import com.selenium.project.config.ReadConfig;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.When;
 import org.openqa.selenium.NoAlertPresentException;
+import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
 import java.io.IOException;
 
-public class LoginClass extends Setup {
+public class LoginClass{
     ReadConfig readConfig = new ReadConfig();
     String actulTitle;
     String expectedTitle = "Guru99 Bank Manager HomePage";
     static LoginPage loginPage;
-
-
+    static WebDriver driver;
     @Test(dataProvider = "Logindata")
     public void Userlogin(String user, String pas,String ex) throws InterruptedException {
 
         loginPage = new LoginPage(driver);
 
         loginPage.Setusername(user);
-        logger.info("Enterd username");
+       // logger.info("Enterd username");
 
         loginPage.Setuserpassword(pas);
-        logger.info("Password enterd");
+       // logger.info("Password enterd");
 
 
         loginPage = new LoginPage(driver);
@@ -57,13 +57,13 @@ public class LoginClass extends Setup {
             if (driver.getTitle().equals(expectedTitle)) {
 
                Assert.assertTrue(true);
-                logger.info("login is successfull");
+               // logger.info("login is successfull");
 
             }
             else {
                 // System.out.println("Test case : failed");
                 Assert.fail();
-                logger.info("Login failed");
+              //  logger.info("Login failed");
             }
         } else if (ex.equals("invalid")) {
             Assert.assertNotEquals(expectedTitle, driver.getTitle());

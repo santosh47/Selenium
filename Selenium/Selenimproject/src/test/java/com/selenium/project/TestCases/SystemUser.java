@@ -4,18 +4,17 @@ import com.selenium.project.PageObject.AddUserPage;
 import com.selenium.project.PageObject.AdminPage;
 import com.selenium.project.PageObject.HrmsLoginPage;
 import com.selenium.project.PageObject.SystemUserPage;
-import com.selenium.project.modules.Generic;
+import com.selenium.project.Generic.Generic;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.Test;
 
-public class SystemUser extends Setup {
+public class SystemUser {
     Generic generic;
     HrmsLoginPage login;
     AdminPage admin;
     AddUserPage addUserPage;
     SystemUserPage systemUserPage;
-
+static WebDriver driver;
     @Test
     public void systemUser() throws InterruptedException {
         login = new HrmsLoginPage(driver);

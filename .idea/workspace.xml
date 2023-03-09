@@ -5,95 +5,88 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f75b4d0-9bff-4fbd-9d33-9a404e567384" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Selenium.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_78.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_07.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_25_0_jre.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_14_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_SparseBitSet_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_create_meta_2_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_core_6_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_expressions_10_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_gherkin_6_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_gherkin_messages_6_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_java_6_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_junit_6_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_plugin_6_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_cucumber_testng_6_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_datatable_3_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_docstring_6_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_html_formatter_9_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_messages_13_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_cucumber_tag_expressions_3_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_bonigarcia_webdrivermanager_4_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_12_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math3_3_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_client5_httpclient5_5_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_core5_httpcore5_5_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_core5_httpcore5_h2_5_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_18_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_19_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_5_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_5_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_lite_5_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_5_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_13_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_rauschig_jarchivelib_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_7_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_jquery_3_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium/Selenimproject/src/testting" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium/Selenimproject/Seleniumproject.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium/Selenimproject/Utilities/Readdata.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/Selenimproject/Utilities/Readdata.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/Selenimproject/src/test/java/com/selenium/project/Feature/CustomerNopCommerce.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/Selenimproject/src/test/java/com/selenium/project/Feature/LoginNopCommerce.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/Selenimproject/src/test/java/com/selenium/project/Feature/NopCommerceRegistation.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/Selenimproject/src/test/java/com/selenium/project/Generic/TestNG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/Selenimproject/src/test/java/com/selenium/project/PageObject/LoginNopCommercePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/Selenimproject/src/test/java/com/selenium/project/TestCases/Sortdropdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/Selenimproject/src/test/java/com/selenium/project/Testrunner/NopCommerce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/Selenimproject/src/test/java/com/selenium/project/Testrunner/NopCommerceCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/Selenimproject/src/test/java/com/selenium/project/stepdefinition/BaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/Selenimproject/src/test/java/com/selenium/project/stepdefinition/CustomeNopCommerce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/Selenimproject/src/test/java/com/selenium/project/stepdefinition/LoginNopCommerce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium/Selenimproject/src/test/java/com/selenium/project/stepdefinition/NopCommerceRegistrationPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/Selenimproject/Configuration/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/Selenimproject/Configuration/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/Selenimproject/Seleniumproject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/Selenimproject/Seleniumproject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/Selenimproject/src/test/java/com/selenium/project/Feature/Login.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/Selenimproject/src/test/java/com/selenium/project/PageObject/AddUserPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/Selenimproject/src/test/java/com/selenium/project/PageObject/AddUserPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/Selenimproject/src/test/java/com/selenium/project/PageObject/AdminPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/Selenimproject/src/test/java/com/selenium/project/PageObject/AdminPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/Selenimproject/src/test/java/com/selenium/project/PageObject/HrmsLoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/Selenimproject/src/test/java/com/selenium/project/PageObject/HrmsLoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/Selenimproject/src/test/java/com/selenium/project/PageObject/MenuPge.java" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/Selenimproject/src/test/java/com/selenium/project/PageObject/MenuPge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/Selenimproject/src/test/java/com/selenium/project/PageObject/SystemUserPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/Selenimproject/src/test/java/com/selenium/project/PageObject/SystemUserPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/Selenimproject/src/test/java/com/selenium/project/TestCases/AddUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/Selenimproject/src/test/java/com/selenium/project/TestCases/AddUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/Selenimproject/src/test/java/com/selenium/project/TestCases/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/Selenimproject/src/test/java/com/selenium/project/TestCases/Admin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/Selenimproject/src/test/java/com/selenium/project/TestCases/Hrmslogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/Selenimproject/src/test/java/com/selenium/project/TestCases/Hrmslogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/Selenimproject/src/test/java/com/selenium/project/TestCases/LoginClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/Selenimproject/src/test/java/com/selenium/project/TestCases/LoginClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/Selenimproject/src/test/java/com/selenium/project/TestCases/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/Selenimproject/src/test/java/com/selenium/project/TestCases/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/Selenimproject/src/test/java/com/selenium/project/TestCases/NewCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/Selenimproject/src/test/java/com/selenium/project/TestCases/NewCustomer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/Selenimproject/src/test/java/com/selenium/project/TestCases/Setup.java" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/Selenimproject/src/test/java/com/selenium/project/TestCases/Setup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/Selenimproject/src/test/java/com/selenium/project/TestCases/SystemUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/Selenimproject/src/test/java/com/selenium/project/TestCases/SystemUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/Selenimproject/src/test/java/com/selenium/project/Testrunner/UserLogin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/Selenimproject/src/test/java/com/selenium/project/Testrunner/runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/Selenimproject/src/test/java/com/selenium/project/config/ReadConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/Selenimproject/src/test/java/com/selenium/project/config/ReadConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/Selenimproject/src/test/java/com/selenium/project/modules/Generic.java" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/Selenimproject/src/test/java/com/selenium/project/Generic/Generic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/PageObject/AddUserPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/PageObject/AddUserPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/PageObject/AdminPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/PageObject/AdminPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/PageObject/HrmsLoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/PageObject/HrmsLoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/PageObject/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/PageObject/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/PageObject/MenuPge.class" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/PageObject/MenuPge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/PageObject/NewCustomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/PageObject/NewCustomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/PageObject/SystemUserPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/PageObject/SystemUserPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/TestCases/AddUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/TestCases/AddUser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/TestCases/Admin.class" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/TestCases/Admin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/TestCases/BaseClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/TestCases/BaseClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/TestCases/Hrmslogin.class" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/TestCases/Hrmslogin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/TestCases/LoginClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/TestCases/LoginClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/TestCases/Menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/TestCases/Menu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/TestCases/NewCustomer.class" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/TestCases/NewCustomer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/TestCases/Setup.class" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/TestCases/Setup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/TestCases/SystemUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/TestCases/SystemUser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/TestCases/testing.class" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/TestCases/testing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/Testrunner/UserLogin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/Testrunner/runner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/Utilities/ReadExcel$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/Utilities/ReadExcel$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/Utilities/ReadExcel.class" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/Utilities/ReadExcel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/Utilities/Xlutility.class" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/Utilities/Xlutility.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/config/ReadConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/config/ReadConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/modules/Dataprovider.class" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/modules/Dataprovider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/modules/DragDrop.class" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/modules/DragDrop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/modules/FileUpload.class" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/modules/FileUpload.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/modules/Generic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/modules/Loctors.class" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/modules/Loctors.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/modules/UserLogin.class" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium/Selenimproject/target/test-classes/com/selenium/project/modules/UserLogin.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2MjtghrbBizdZZtxHjPDi68GMBy" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -104,8 +97,115 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="duplicates.index" />
+  </component>
+  <component name="RunManager" selected="TestNG.NopCommerceCustomer">
+    <configuration name="Feature: CustomerNopCommerce" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/Selenium/Selenimproject/src/test/java/com/selenium/project/Feature/CustomerNopCommerce.feature" />
+      <option name="GLUE" value="com.selenium.project.stepdefinition" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Seleniumproject" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: CustomerNopCommerce" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: LoginNopCommerce" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/Selenium/Selenimproject/src/test/java/com/selenium/project/Feature/LoginNopCommerce.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Seleniumproject" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: LoginNopCommerce" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: NopCommerceRegistation" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/Selenium/Selenimproject/src/test/java/com/selenium/project/Feature/NopCommerceRegistation.feature" />
+      <option name="GLUE" value="com.selenium.project.stepdefinition" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Seleniumproject" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: NopCommerceRegistation" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NopCommerce" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Seleniumproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.selenium.project.Testrunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.selenium.project.Testrunner" />
+      <option name="MAIN_CLASS_NAME" value="com.selenium.project.Testrunner.NopCommerce" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NopCommerceCustomer" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Seleniumproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.selenium.project.Testrunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.selenium.project.Testrunner" />
+      <option name="MAIN_CLASS_NAME" value="com.selenium.project.Testrunner.NopCommerceCustomer" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.NopCommerceCustomer" />
+        <item itemvalue="Cucumber Java.Feature: CustomerNopCommerce" />
+        <item itemvalue="Cucumber Java.Feature: LoginNopCommerce" />
+        <item itemvalue="Cucumber Java.Feature: NopCommerceRegistation" />
+        <item itemvalue="TestNG.NopCommerce" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -116,6 +216,20 @@
       <option name="presentableId" value="Default" />
       <updated>1678292932919</updated>
       <workItem from="1678292934903" duration="554000" />
+      <workItem from="1678331638291" duration="648000" />
+      <workItem from="1678334540996" duration="1518000" />
+      <workItem from="1678339847073" duration="1768000" />
+      <workItem from="1678341693468" duration="1789000" />
+      <workItem from="1678343523840" duration="1770000" />
+      <workItem from="1678345961831" duration="1160000" />
+      <workItem from="1678347166929" duration="1770000" />
+      <workItem from="1678349004626" duration="1222000" />
+      <workItem from="1678351100757" duration="1944000" />
+      <workItem from="1678353087005" duration="1931000" />
+      <workItem from="1678355609030" duration="1330000" />
+      <workItem from="1678357028002" duration="1917000" />
+      <workItem from="1678359032266" duration="1765000" />
+      <workItem from="1678360837345" duration="856000" />
     </task>
     <servers />
   </component>
@@ -132,6 +246,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />

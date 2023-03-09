@@ -3,20 +3,20 @@ package com.selenium.project.TestCases;
 import com.selenium.project.PageObject.AdminPage;
 import com.selenium.project.PageObject.HrmsLoginPage;
 import com.selenium.project.PageObject.SystemUserPage;
-import com.selenium.project.modules.Generic;
+import com.selenium.project.Generic.Generic;
 import org.openqa.selenium.By;
-import org.openqa.selenium.WebElement;
+import org.openqa.selenium.WebDriver;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
 import java.io.IOException;
-import java.util.List;
 
-public class Admin extends Setup{
+public class Admin {
     Generic generic;
     HrmsLoginPage login;
     AdminPage admin;
     SystemUserPage systemUserPage;
+    WebDriver driver;
     @Test(dataProvider = "Logindata")
     public void addSysteuser(String usrename,String password) throws InterruptedException {
         login = new HrmsLoginPage(driver);

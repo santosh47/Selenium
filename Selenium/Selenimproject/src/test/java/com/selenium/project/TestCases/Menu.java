@@ -4,12 +4,14 @@ import com.selenium.project.PageObject.AdminPage;
 import com.selenium.project.PageObject.HrmsLoginPage;
 import com.selenium.project.PageObject.MenuPge;
 import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
 import org.testng.annotations.Test;
 
-public class Menu extends Setup{
+public class Menu {
     AdminPage admin;
     HrmsLoginPage login;
     MenuPge menu;
+    static WebDriver driver;
     @Test
     public void test() throws InterruptedException {
         login = new HrmsLoginPage(driver);

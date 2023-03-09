@@ -1,7 +1,6 @@
 package com.selenium.project.PageObject;
 
-import com.selenium.project.modules.Generic;
-import org.openqa.selenium.By;
+import com.selenium.project.Generic.Generic;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;

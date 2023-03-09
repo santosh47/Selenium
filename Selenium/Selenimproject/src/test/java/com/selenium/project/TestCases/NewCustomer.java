@@ -2,12 +2,13 @@ package com.selenium.project.TestCases;
 
 import com.selenium.project.PageObject.LoginPage;
 import com.selenium.project.PageObject.NewCustomePage;
+import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import java.util.concurrent.TimeUnit;
 
-public class NewCustomer extends BaseClass {
+public class NewCustomer {
 String customername="test";
 String address="Testing";
 String date="12";
@@ -20,7 +21,7 @@ String Userpinno="582103";
 String telephone="123456789";
 //String email="test@@123";
 String password="23248#5326";
-
+static WebDriver driver;
 
     @Test
     public void Newcustomer(String user) throws InterruptedException {
@@ -29,7 +30,7 @@ String password="23248#5326";
 
       LoginPage loginPage=new LoginPage(driver);
       loginPage.Setusername(user);
-      loginPage.Setuserpassword(UserPass);
+     // loginPage.Setuserpassword(UserPass);
       loginPage.clickOnLoginButton();
 Thread.sleep(3000);
 
@@ -46,8 +47,8 @@ newCustomerPage.setState(state);
 newCustomerPage.setPinno(Userpinno);
 newCustomerPage.setTelePhoneNumber(telephone);
 newCustomerPage.setPassword(password);
-String email = getSaltString()+"@gmail.com";
-newCustomerPage.setEmailid(email);
+//String email = getSaltString()+"@gmail.com";
+//newCustomerPage.setEmailid(email);
 newCustomerPage.Submit();
 Thread.sleep(3000);
 boolean res=driver.getPageSource().contains("Customer Registered Successfully!!!");

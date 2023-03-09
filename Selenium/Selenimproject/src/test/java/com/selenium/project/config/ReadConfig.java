@@ -34,4 +34,9 @@ public class ReadConfig {
         String password = pro.getProperty("UserPass");
         return password;
      }
+    public String getNocommerceUrl()
+    {
+        String URLNoCommerce=pro.getProperty("URLNoCommerce");
+        return URLNoCommerce;
+    }
 }
