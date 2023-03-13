@@ -1,15 +1,20 @@
 package com.selenium.project.Generic;
 
+import org.apache.commons.lang3.RandomStringUtils;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.support.PageFactory;
+import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.util.List;
 
 public class Generic {
 
    WebDriver driver;
+
    public void clickingonweblement(WebElement element){
        element.click();
    }
@@ -55,7 +60,7 @@ public class Generic {
 
 
         List<WebElement> ll =ele;      //select.selectByVisibleText("Admin");
-        System.out.println("size" + ll.size());
+        System.out.println("size of " + ll.size());
         for (WebElement ptype : ll) {
             if (ptype.getText().equals(txt)) {
                 System.out.println(ptype);
@@ -64,4 +69,10 @@ public class Generic {
             }
         }
     }
+
+    public static String randomstring(){
+       String generatedstring1 = RandomStringUtils.randomAlphabetic(5);
+       return generatedstring1;
+    }
+
 }

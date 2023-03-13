@@ -10,8 +10,11 @@ import io.cucumber.testng.CucumberOptions;
 import org.junit.runner.RunWith;
 
 
-@CucumberOptions(tags = "", features = {"src/test/java/com/selenium/project/Feature/LoginNopCommerce.feature"}, glue = {"com.selenium.project.stepdefinition"},
-        plugin = {})
+@CucumberOptions(tags = "",
+        features = {"src/test/java/com/selenium/project/Feature/CustomerNopCommerce.feature"}, glue = {"com.selenium.project.stepdefinition"},
+        plugin = {"pretty","html:test-output"},
+        monochrome = true
+)
 
 public class NopCommerceCustomer  extends AbstractTestNGCucumberTests{
 

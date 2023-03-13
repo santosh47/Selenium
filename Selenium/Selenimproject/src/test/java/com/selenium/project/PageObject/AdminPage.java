@@ -32,6 +32,7 @@ public class AdminPage extends Generic {
         clickDropdown.click();;
     }
     public void viewAdminPage(){
+
         clickingonweblement(Admin);
     }
     public void SystemUserName(String sysuser){

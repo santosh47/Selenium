@@ -38,6 +38,7 @@ public class AddUserPage extends Generic {
 
 
     public void selectdropdown(){
+
         dropdown.click();
     }
     public void setSelectStatus(String txt){
@@ -56,16 +57,19 @@ public class AddUserPage extends Generic {
     }
 
     public void enterUserName(String txt) {
+
         sendKeyesOnWebelement(userName,txt);
     }
 
 
     public void enterPassword(String txt) {
+
         sendKeyesOnWebelement(confirmPassword,txt);
     }
 
 
     public void saveUser() {
+
         clickingonweblement(saveUser);
     }
 }

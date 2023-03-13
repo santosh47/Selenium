@@ -1,4 +1,5 @@
 package com.selenium.project.PageObject;
+import com.selenium.project.Generic.Generic;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.junit.jupiter.api.*;
 
@@ -16,9 +17,10 @@ import org.testng.annotations.BeforeTest;
 
 import javax.xml.xpath.XPath;
 import java.sql.Driver;
+import java.util.List;
 import java.util.concurrent.TimeUnit;
 
-public class LoginPage {
+public class LoginPage extends Generic {
 WebDriver ldriver;
     public LoginPage(WebDriver rdriver) {
 ldriver = rdriver;
@@ -33,7 +35,13 @@ ldriver = rdriver;
     WebElement clickOnLoginButton;
     @FindBy(linkText = "Log out")
     WebElement logOut;
+    @FindBy(xpath = "//ul[@class='dropdown-menu']/li/a")
+    List<WebElement> seleniumdropdown;
 
+    public void setSeleniumdropdown(String txt){
+
+        test(seleniumdropdown,txt);
+    }
     public void Setusername(String name){
         userId.sendKeys(name);
     }

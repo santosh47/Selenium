@@ -1,5 +1,5 @@
 package com.selenium.project.modules;
-import com.selenium.project.TestCases.BaseClass;
+import com.selenium.project.TestCases.BaseClasss;
 import org.openqa.selenium.By;
 import org.testng.Assert;
 import org.testng.annotations.DataProvider;
@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 
 import java.io.IOException;
 
-public class Loctors extends BaseClass {
+public class Loctors extends BaseClasss {
 
         // String url = "https://opensource-demo.orangehrmlive.com/";
 

@@ -39,4 +39,9 @@ public class ReadConfig {
         String URLNoCommerce=pro.getProperty("URLNoCommerce");
         return URLNoCommerce;
     }
+    public String getBrowser()
+    {
+        String URLNoCommerce=pro.getProperty("browser");
+        return URLNoCommerce;
+    }
 }
