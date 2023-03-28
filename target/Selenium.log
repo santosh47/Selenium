@@ -1,0 +1,100 @@
+2023-03-28 17:10:06 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the fields
+2023-03-28 17:10:06 [INFO ] [Browser] - [startBrowser] Selected Browser is: edge
+2023-03-28 17:10:10 [INFO ] [Browser] - [startBrowser] Internet Explorer Browser is Started1051890381
+2023-03-28 17:10:19 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the fields
+2023-03-28 17:10:19 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2023-03-28 17:10:19 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is not allowed to register on skipping mandatory fields
+2023-03-28 17:10:19 [INFO ] [Browser] - [startBrowser] Selected Browser is: edge
+2023-03-28 17:10:22 [INFO ] [Browser] - [startBrowser] Internet Explorer Browser is Started507377172
+2023-03-28 17:10:30 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is not allowed to register on skipping mandatory fields
+2023-03-28 17:10:30 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2023-03-28 18:01:26 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the fields
+2023-03-28 18:01:26 [INFO ] [Browser] - [startBrowser] Selected Browser is: edge
+2023-03-28 18:01:30 [INFO ] [Browser] - [startBrowser] Internet Explorer Browser is Started298862004
+2023-03-28 18:01:39 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the fields
+2023-03-28 18:01:39 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2023-03-28 18:01:40 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is not allowed to register on skipping mandatory fields
+2023-03-28 18:01:40 [INFO ] [Browser] - [startBrowser] Selected Browser is: edge
+2023-03-28 18:01:43 [INFO ] [Browser] - [startBrowser] Internet Explorer Browser is Started1742798650
+2023-03-28 18:01:51 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is not allowed to register on skipping mandatory fields
+2023-03-28 18:01:51 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2023-03-28 18:01:52 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is restricted from registering a duplicate account
+2023-03-28 18:01:52 [INFO ] [Browser] - [startBrowser] Selected Browser is: edge
+2023-03-28 18:01:54 [INFO ] [Browser] - [startBrowser] Internet Explorer Browser is Started841313896
+2023-03-28 18:02:03 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is restricted from registering a duplicate account
+2023-03-28 18:02:03 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2023-03-28 18:05:19 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is able to register into the application by providing all the fields
+2023-03-28 18:05:19 [INFO ] [Browser] - [startBrowser] Selected Browser is: edge
+2023-03-28 18:05:23 [INFO ] [Browser] - [startBrowser] Internet Explorer Browser is Started1895203464
+2023-03-28 18:05:32 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is able to register into the application by providing all the fields
+2023-03-28 18:05:32 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2023-03-28 18:05:33 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is not allowed to register on skipping mandatory fields
+2023-03-28 18:05:33 [INFO ] [Browser] - [startBrowser] Selected Browser is: edge
+2023-03-28 18:05:36 [INFO ] [Browser] - [startBrowser] Internet Explorer Browser is Started690070378
+2023-03-28 18:05:43 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is not allowed to register on skipping mandatory fields
+2023-03-28 18:05:43 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: PASSED
+2023-03-28 18:05:43 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is restricted from registering a duplicate account
+2023-03-28 18:05:43 [INFO ] [Browser] - [startBrowser] Selected Browser is: edge
+2023-03-28 18:05:46 [INFO ] [Browser] - [startBrowser] Internet Explorer Browser is Started875865328
+2023-03-28 18:05:55 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is restricted from registering a duplicate account
+2023-03-28 18:05:55 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2023-03-28 18:08:00 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is restricted from registering a duplicate account
+2023-03-28 18:08:00 [INFO ] [Browser] - [startBrowser] Selected Browser is: edge
+2023-03-28 18:08:04 [INFO ] [Browser] - [startBrowser] Internet Explorer Browser is Started1171672359
+2023-03-28 18:08:04 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is restricted from registering a duplicate account
+2023-03-28 18:08:04 [INFO ] [Browser] - [startBrowser] Selected Browser is: edge
+2023-03-28 18:08:07 [INFO ] [Browser] - [startBrowser] Internet Explorer Browser is Started1310167355
+2023-03-28 18:08:17 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is restricted from registering a duplicate account
+2023-03-28 18:08:17 [INFO ] [Base] - [closeBrowser] Scenario Status is: FAILED
+2023-03-28 18:08:17 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is restricted from registering a duplicate account
+2023-03-28 18:08:17 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2023-03-28 18:12:19 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is restricted from registering a duplicate account
+2023-03-28 18:12:19 [INFO ] [Browser] - [startBrowser] Selected Browser is: edge
+2023-03-28 18:13:05 [INFO ] [Browser] - [startBrowser] Internet Explorer Browser is Started542019831
+2023-03-28 18:13:06 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is restricted from registering a duplicate account
+2023-03-28 18:13:06 [INFO ] [Browser] - [startBrowser] Selected Browser is: edge
+2023-03-28 18:13:08 [INFO ] [Browser] - [startBrowser] Internet Explorer Browser is Started1863557065
+2023-03-28 18:13:17 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is restricted from registering a duplicate account
+2023-03-28 18:13:17 [INFO ] [Base] - [closeBrowser] Scenario Status is: FAILED
+2023-03-28 18:13:18 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is restricted from registering a duplicate account
+2023-03-28 18:13:18 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2023-03-28 18:19:23 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is restricted from registering a duplicate account
+2023-03-28 18:19:23 [INFO ] [Browser] - [startBrowser] Selected Browser is: edge
+2023-03-28 18:19:28 [INFO ] [Browser] - [startBrowser] Internet Explorer Browser is Started1171672359
+2023-03-28 18:19:28 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is restricted from registering a duplicate account
+2023-03-28 18:19:28 [INFO ] [Browser] - [startBrowser] Selected Browser is: edge
+2023-03-28 18:19:31 [INFO ] [Browser] - [startBrowser] Internet Explorer Browser is Started1310167355
+2023-03-28 18:19:39 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is restricted from registering a duplicate account
+2023-03-28 18:19:39 [INFO ] [Base] - [closeBrowser] Scenario Status is: FAILED
+2023-03-28 18:19:39 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is restricted from registering a duplicate account
+2023-03-28 18:19:39 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2023-03-28 18:27:46 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is restricted from registering a duplicate account
+2023-03-28 18:27:46 [INFO ] [Browser] - [startBrowser] Selected Browser is: edge
+2023-03-28 18:27:51 [INFO ] [Browser] - [startBrowser] Internet Explorer Browser is Started1171672359
+2023-03-28 18:27:51 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is restricted from registering a duplicate account
+2023-03-28 18:27:51 [INFO ] [Browser] - [startBrowser] Selected Browser is: edge
+2023-03-28 18:27:54 [INFO ] [Browser] - [startBrowser] Internet Explorer Browser is Started1310167355
+2023-03-28 18:28:04 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is restricted from registering a duplicate account
+2023-03-28 18:28:04 [INFO ] [Base] - [closeBrowser] Scenario Status is: FAILED
+2023-03-28 18:28:05 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is restricted from registering a duplicate account
+2023-03-28 18:28:05 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2023-03-28 18:43:05 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is restricted from registering a duplicate account
+2023-03-28 18:43:05 [INFO ] [Browser] - [startBrowser] Selected Browser is: edge
+2023-03-28 18:43:09 [INFO ] [Browser] - [startBrowser] Internet Explorer Browser is Started889074285
+2023-03-28 18:43:09 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is restricted from registering a duplicate account
+2023-03-28 18:43:09 [INFO ] [Browser] - [startBrowser] Selected Browser is: edge
+2023-03-28 18:43:12 [INFO ] [Browser] - [startBrowser] Internet Explorer Browser is Started345780740
+2023-03-28 18:43:21 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is restricted from registering a duplicate account
+2023-03-28 18:43:21 [INFO ] [Base] - [closeBrowser] Scenario Status is: FAILED
+2023-03-28 18:43:22 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is restricted from registering a duplicate account
+2023-03-28 18:43:22 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
+2023-03-28 18:44:09 [INFO ] [Hooks] - [setUp] Scenario Started: Verify whether the user is restricted from registering a duplicate account
+2023-03-28 18:44:09 [INFO ] [Browser] - [startBrowser] Selected Browser is: edge
+2023-03-28 18:44:13 [INFO ] [Browser] - [startBrowser] Internet Explorer Browser is Started2113891589
+2023-03-28 18:44:13 [INFO ] [Base] - [setUp] Scenario Started: Verify whether the user is restricted from registering a duplicate account
+2023-03-28 18:44:13 [INFO ] [Browser] - [startBrowser] Selected Browser is: edge
+2023-03-28 18:44:16 [INFO ] [Browser] - [startBrowser] Internet Explorer Browser is Started750795985
+2023-03-28 18:44:25 [INFO ] [Base] - [closeBrowser] Scenario Completed: Verify whether the user is restricted from registering a duplicate account
+2023-03-28 18:44:25 [INFO ] [Base] - [closeBrowser] Scenario Status is: FAILED
+2023-03-28 18:44:25 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify whether the user is restricted from registering a duplicate account
+2023-03-28 18:44:25 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: FAILED
